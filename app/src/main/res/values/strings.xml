@@ -18,12 +18,19 @@
     <string name="btActualiza">Actualizar</string>
     <string name="tvActual">El número actual es:</string>
 
-    <string name="menu_slideshow">Slideshow</string>
-
     <string name="menu_gallery">Storage</string>
     <string name="tvArchivo">Nombre del archivo</string>
     <string name="btDescargar">Descargar</string>
     <string name="btBuscar">Buscar</string>
     <string name="btCarga">Cargar</string>
 
+    <string name="menu_slideshow">SQLite</string>
+    <string name="tvId">Id</string>
+    <string name="tvNombre">Nombre</string>
+    <string name="tvEdad">Edad</string>
+    <string name="btInserta">Insertar</string>
+    <string name="btConsulta">Consultar</string>
+    <string name="btModifica">Modificar</string>
+    <string name="btElimina">Eliminar</string>
+k
 </resources>
